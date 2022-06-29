@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rational-test-task/static/css/main.97a07010.css",
+    "main.js": "/rational-test-task/static/js/main.e1f92189.js",
+    "index.html": "/rational-test-task/index.html",
+    "main.97a07010.css.map": "/rational-test-task/static/css/main.97a07010.css.map",
+    "main.e1f92189.js.map": "/rational-test-task/static/js/main.e1f92189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97a07010.css",
+    "static/js/main.e1f92189.js"
+  ]
+}
