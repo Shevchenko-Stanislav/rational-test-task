@@ -1,0 +1,9 @@
+.textarea {
+    width: 100%;
+    height: 80px;
+    resize: vertical;
+}
+
+.wrap {
+    margin-bottom: 30px;
+}

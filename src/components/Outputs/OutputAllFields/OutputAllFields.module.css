@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: auto;
+    overflow: scroll;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+.textarea {
+    height: 100px;
+    resize: none;
+}

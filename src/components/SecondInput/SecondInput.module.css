@@ -1,0 +1,14 @@
+.input__wrap {
+    display: none;
+    margin-bottom: 30px;
+}
+
+.input {
+    width: 100%;
+    height: 90px;
+    resize: vertical;
+}
+
+.visible {
+    display: block;
+}
